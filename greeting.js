@@ -42,4 +42,5 @@ function init() {
 init();
 
 /*local storage
-javascript의 정보들을 저장하는 저장소. */
+javascript의 정보들을 저장하는 저장소.
+모든데이터를 string으로 저장됨. */
